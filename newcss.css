@@ -1,0 +1,17 @@
+body {
+  background: blue;
+}
+.h1 {
+  background: orange;
+}
+
+.h2 {
+  background: green;
+  padding: 30px 40px;
+}
+.rounded {
+  border-radius: 5px;
+}
+#my {
+  background: magenta;
+}
